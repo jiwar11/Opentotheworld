@@ -1,0 +1,77 @@
+
+---
+title: "Présentation de projet OPEN Groupe 2"
+author: "Camille BONNET, Gabriel BURELLIER et Jiwar LAEBOUSSE"
+date: "2024-02-12"
+output: pdf_document
+
+---
+
+# Auteurs
+
+Camille BONNET, Gabriel BURELLIER et Jiwar LAEBOUSSE.
+
+# OPEN to the world
+
+## Le concept
+
+*OPEN to the world* est une application de voyage. L'utilisateur renseigne sur une première page différentes informations le concernant pour que l'application lui trouve la destination idéale pour ses prochaines vacances.
+
+## Les critères étudiés
+
+L'application demande dans un premier temps à l'utilisateur de rentrer son Nom et Prénom.
+Ensuite différentes informations sont demandées afin d'affiner les conseils donnés:
+
+
+-   Nombre de voyageur : 1, 2 ou plus
+-   Catégories d'âges :
+    -   enfant en bas-âge
+    -   enfant 
+    -   adolescent 
+    -   jeune adulte 
+    -   adulte 
+    -   sénior
+-   Durée du séjour
+-   Budget : fort, moyen, faible
+-   Période de l'année : mois
+-   Type de destination
+    -   pays chaud
+    -   pays froid
+    -   pays tempéré
+    -   peu m'importe
+-   Types de destinations
+    -   pays chaud
+    -   pays froid
+    -   pays tempéré
+    -   peu m'importe
+-   Types d'activités 
+    -   culturelles
+    -   sportives
+    -   détentes
+    -   familliales
+    -   festives
+
+## Les conseils donnés
+
+A partir des données récoltées, l'application proposera un pays à visiter et suggérera des activités.
+
+Par exemple, pour un couple d'une vingtaine d'année qui souhaite faire un voyage culturel d'une semaine au mois d'avril dans un pays chaud avec un budget moyen, l'application pourrait lui proposer une visite guidée de Lisbonne au Portugal. 
+
+## Cahier des charges
+
+Onglet 1 : formulaire
+
+Onglet 2 : destination choisi sur une carte, photos du pays
+
+Onglet 3 : information sur le pays, proposition d'activités
+
+Onglet 4 : informations sur nous, date
+
+## Pistes d'améliorations
+
+Il existe de multiples pistes d'amélioration pour notre application. Tout d'abord, il serait bien d'élargir considérablement la liste des destinations que nous proposons.En effet, nous nous sommes limité à une quarantaine de pays.
+
+Nous pourrions envisager d'affiner nos conseils en ciblant nos propositions sur des villes plutot que sur des pays et en indiquant différents services comme des photos, des hôtels, des locations de voiture ou des liens pour réserver des activités ou des hôtels par exemple.
+
+Il serait également intéréssant de faire apparaitre une carte du monde qui pointerait la destination choisie dans un autre onglet.
+
